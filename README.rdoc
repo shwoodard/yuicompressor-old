@@ -1,0 +1,7 @@
+== yuicompressor revision
+
+Allows compression of multiple js and css files with a single execute.
+
+ java -jar yuicompressor-2.4.2-netbooks.jar <args> <filename> <filename>
+
+The jar can be found under the build directory.
